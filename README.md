@@ -16,7 +16,7 @@ The steps below provide a general idea of the steps you should focus on:
 4. Use mc.setBlocks to make the ceiling and walls.
 5. Use mc.setBlocks to make the floors.
 6. Add a door and windows.
-7. Include a roof (optional)
+
 
 Friendly note: If you're having a hard time it's okay, rememebr-- "Progression over perfection"
 
